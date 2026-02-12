@@ -1,0 +1,5 @@
+body {
+    background-color: purple; /* Cor de fundo roxa */
+    color: white;             /* Opcional: cor do texto branca para dar contraste */
+    font-family: Georgia, "Times New Roman", serif;
+}

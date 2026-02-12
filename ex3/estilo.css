@@ -1,0 +1,6 @@
+.container {
+    background-color: #d8da3d; /* Cor amarelada solicitada */
+    border: 2px solid black;   /* Borda sólida de 2px na cor preta */
+    padding: 20px;             /* Espaço interno para o texto não encostar na borda */
+    margin: 10px;              /* Espaço externo entre a div e outras coisas */
+}
